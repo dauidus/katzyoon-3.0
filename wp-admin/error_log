@@ -1,0 +1,37 @@
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 314
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 460
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 314
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 460
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 314
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 460
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 314
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 460
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 314
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 460
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 314
+[18-Dec-2013 02:10:31] PHP Warning:  Division by zero in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/slider_versions/roster_1.php on line 460
+[18-Dec-2013 02:10:31] PHP Warning:  opendir(/home3/katzyoon/public_html/wp-content/plugins/roster-slider//css/skins//buttons/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/settings/settings.php on line 994
+[18-Dec-2013 02:11:42] PHP Warning:  opendir(/home3/katzyoon/public_html/wp-content/plugins/roster-slider//css/skins//buttons/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home3/katzyoon/public_html/wp-content/plugins/roster-slider/settings/settings.php on line 994
+[02-Mar-2014 04:17:42 UTC] PHP Parse error:  syntax error, unexpected ''px' (T_ENCAPSED_AND_WHITESPACE) in /home3/katzyoon/public_html/wp-content/themes/canvas/functions/admin-functions.php on line 781
+[09-Mar-2014 01:05:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/katzyoon/public_html/wp-content/themes/canvas/functions/admin-functions.php on line 2180
+[09-Mar-2014 01:06:49 UTC] PHP Parse error:  syntax error, unexpected ''title' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home3/katzyoon/public_html/wp-content/themes/canvas/functions/admin-functions.php on line 2594
+[09-Mar-2014 01:06:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/katzyoon/public_html/wp-content/themes/canvas/functions/admin-functions.php on line 2799
+[12-Feb-2015 17:54:12] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:03:29] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:05:05] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:05:28] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:06:50] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:07:01] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:13:37] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:14:51] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:16:28] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:16:31] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:16:57] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:17:23] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:18:27] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 18:18:58] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[12-Feb-2015 20:21:33] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[18-Feb-2015 17:49:42] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[05-Mar-2015 08:43:14] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[05-Mar-2015 08:43:30] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288
+[05-Mar-2015 08:44:13] PHP Warning:  array_slice() expects parameter 1 to be array, object given in /home3/katzyoon/public_html/wp-includes/class-wp-walker.php on line 288

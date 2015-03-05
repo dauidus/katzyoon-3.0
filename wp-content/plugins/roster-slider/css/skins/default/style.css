@@ -1,0 +1,46 @@
+/*
+Plugin Name: Roster Slider
+Plugin URI: http://slidervilla.com/roster/
+Description: Roster Slider adds a horizontal content and image carousel with customizable background and slide intervals to any location of your blog.
+Author: Tejaswini Deshpande
+Author URI: http://slidervilla.com/
+Wordpress version supported: 2.9 and above
+*/
+/*  Copyright 2010-2012  Slider Villa  (email : tedeshpa@gmail.com)
+*/
+
+/*basic styles*/
+.roster_slider_fouc .roster_slider {display: none;} /* Keep this as it is*/
+.roster_slider div,.roster_slider p,.roster_slider li,.roster_slider span,.roster_slider img,.roster_slider h2,.roster_slider ul{list-style:none;vertical-align:baseline;}
+.roster_slider{overflow:hidden;margin: 0 0 0 0;line-height:18px;position:relative}
+.roster_slider .roster_slider_instance { margin: 0 auto; padding: 0; clear: left; }
+.roster_slider .roster_slide { margin: 0; padding: 0 }
+.roster_slider .roster_slideri{float:left;margin:0 5px;}
+
+.roster_slider span{display:inline;}
+.roster_slider a{border:none;text-decoration:none !important;}
+.roster_slider a:hover{text-decoration:underline !important;}
+.roster_slider img{}
+.roster_slider h2{clear:none;display:block;padding:0px;border:none;text-shadow:none}
+.roster_slider div.roster_slideri{padding:10px}
+.roster_slider p.more a{text-decoration:underline;float:right;}
+.roster_slider p.more a:hover{text-decoration:none;}
+
+.roster_slider img.roster_img_gray {filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+, IE10 */filter: gray; /* IE6-9 */-webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */  -webkit-backface-visibility: hidden; /* Fix for transition flickering */backface-visibility: hidden;}
+.roster_slider img.roster_img_gray:hover {filter: none;-webkit-filter: grayscale(0%);}
+
+/* Next and Previous navigational arrows */
+.roster_slider .roster_next {position: absolute;right: 0px; width: 24px; height: 24px; cursor: pointer; background: transparent url(buttons/default/next.png) no-repeat 0 0;}
+.roster_slider .roster_prev { position: absolute;left: 0px; width: 24px; height: 24px; cursor: pointer; background: transparent url(buttons/default/prev.png) no-repeat 0 0;}
+
+/*Navigation numbers*/
+.roster_slider .roster_nav { text-align:center;margin: 20px auto; }
+.roster_slider .roster_nav a { padding: 2px 6px; margin: 3px; border: 1px solid #ccc; text-align: center; text-decoration: none; background-color: #efefef ; font-weight:normal;}
+.roster_slider .roster_nav a.activeSlide { color: #c00 }
+.roster_slider .roster_nav a:focus { outline: none; }
+
+.roster_slider .sldr_clearlt{display:block;visibility:hidden;clear:left;height:0;content:".";}
+.roster_slider .sldr_clearrt{display:block;visibility:hidden;clear:right;height:0;content:".";}
+
+
+

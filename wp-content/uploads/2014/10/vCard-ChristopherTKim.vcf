@@ -1,0 +1,24 @@
+BEGIN:VCARD
+PROFILE:VCARD
+VERSION:3.0
+MAILER:Microsoft Exchange
+PRODID:Microsoft Exchange
+FN:Christopher T. Kim
+N:Kim;Christopher;T.;;
+EMAIL;TYPE=INTERNET:ckim@katzyoon.com
+NOTE:\n----------------------------------------------------\nDetails Update
+ d 10/3/2014:\n        Business Address Country/Region: United States\n
+ORG:Katz & Yoon LLP;
+CLASS:PUBLIC
+ADR;TYPE=WORK,PREF:;;111 Pacifica\, Suite 230;Irvine;CA;92618;United States
+  of America
+LABEL;TYPE=WORK,PREF:111 Pacifica\, Suite 230\nIrvine\, CA 92618
+ADR;TYPE=HOME:;;;;;;
+ADR;TYPE=POSTAL:;;;;;;
+TEL;TYPE=WORK:(949) 748-1907
+TEL;TYPE=WORK,FAX:(949) 242-2670
+TITLE:Associate 
+X-MS-IMADDRESS:
+URL;TYPE=WORK:www.katzyoon.com
+REV;VALUE=DATE-TIME:2014-10-09T17:47:17,281Z
+END:VCARD
